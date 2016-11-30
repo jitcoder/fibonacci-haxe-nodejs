@@ -1,0 +1,8 @@
+-cp src
+-main Main
+-cpp native
+
+--next
+-cp src
+-main Main
+-js javascript/main.js
